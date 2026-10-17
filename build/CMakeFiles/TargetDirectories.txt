@@ -1,0 +1,3 @@
+D:/Programacion/DungeonSurvival/build/CMakeFiles/DungeonSurvival.dir
+D:/Programacion/DungeonSurvival/build/CMakeFiles/edit_cache.dir
+D:/Programacion/DungeonSurvival/build/CMakeFiles/rebuild_cache.dir
